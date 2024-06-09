@@ -1,6 +1,12 @@
 # Linear Regression Chart
 This project is a simple web page that displays a chart showing the relationship between the number of hotel rooms and the price of a hotel night based on a linear regression model.
 
+# Installing the necessary dependencies
+
+```
+npm install
+```
+
 ### Mathematical Problem - Linear Regression
 Linear regression is a statistical method used to model the relationship between a dependent variable (often denoted as Y) and one or more independent variables (often denoted as X). In this project, we are dealing with simple linear regression, which involves a single independent variable.
 
